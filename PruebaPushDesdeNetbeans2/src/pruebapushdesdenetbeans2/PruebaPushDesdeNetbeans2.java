@@ -15,7 +15,7 @@ public class PruebaPushDesdeNetbeans2 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("hola github");
+        System.out.println("hola github. ¿Que tal?");
     }
     
 }
